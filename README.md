@@ -1,0 +1,1 @@
+# KizunaAI-Web-static
